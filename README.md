@@ -16,3 +16,7 @@ Images
 WooCommerce Documentation
 https://woocommerce.com/document/composite-products/composite-products-use-case-configurable-product/
 
+https://woocommerce.com/document/composite-products/composite-products-use-case-configurable-product/
+https://www.addwebsolution.com/blog/creating-custom-plugin-woocommerce-using-wcintegration-class
+https://wpswings.com/blog/create-woocommerce-plugin/
+https://www.codeable.io/blog/woocommerce-plugin-development/
