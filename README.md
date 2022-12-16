@@ -19,3 +19,6 @@ https://woocommerce.com/document/composite-products/composite-products-use-case-
 https://www.addwebsolution.com/blog/creating-custom-plugin-woocommerce-using-wcintegration-class
 https://wpswings.com/blog/create-woocommerce-plugin/
 https://www.codeable.io/blog/woocommerce-plugin-development/
+
+THIS IS WHERE THE MAGIC HAPPENS
+PATH = includes/lib/class-scraping-tool-for-bringatrailer-com-admin-api.php
