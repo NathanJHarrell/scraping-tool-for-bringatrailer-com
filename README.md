@@ -20,5 +20,5 @@ https://www.addwebsolution.com/blog/creating-custom-plugin-woocommerce-using-wci
 https://wpswings.com/blog/create-woocommerce-plugin/
 https://www.codeable.io/blog/woocommerce-plugin-development/
 
-THIS IS WHERE THE MAGIC HAPPENS
+THIS IS WHERE THE MAGIC HAPPENS<br>
 PATH = includes/lib/class-scraping-tool-for-bringatrailer-com-admin-api.php
